@@ -11,4 +11,9 @@
 <h4> Tarraform - AWS </h4>
 <a href="url">https://github.com/zealvora/terraform-beginner-to-advanced-resource</a>
 
+<h4> kalyan reddy daida </h4>
+<a href="url">https://deloittedevelopment.udemy.com/organization/search/?src=ukw&q=kalyan+reddy+daida</a>
+<a href="url">https://github.com/GauravGadbail26/stacksimplify-azure-aks-kubernetes-masterclass</a>
+<a href="url">https://github.com/GauravGadbail26/stacksimplify-azure-aks-kubernetes-masterclass.git</a>
+
 
