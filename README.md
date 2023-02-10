@@ -17,3 +17,8 @@
 <a href="url">https://github.com/GauravGadbail26/stacksimplify-azure-aks-kubernetes-masterclass.git</a>
 
 
+<h4> Udemy Link</h4>
+<a href="url">https://deloittedevelopment.udemy.com/course/certified-kubernetes-administrator/learn/lecture/15344696#overview</a><br>
+<a href="url">https://deloittedevelopment.udemy.com/organization/search/?kw=zeal&q=zeal+vora&src=sac</a>
+
+
