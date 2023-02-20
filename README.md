@@ -10,7 +10,8 @@
 <br>
 <h4> Tarraform - AWS </h4>
 <a href="url">https://github.com/zealvora/terraform-beginner-to-advanced-resource</a><br>
-<a href="url">https://deloittedevelopment.udemy.com/course/terraform-on-azure-services/learn/lecture/32772222#overview</a>
+<a href="url">https://deloittedevelopment.udemy.com/course/terraform-on-azure-services/learn/lecture/32772222#overview</a><br>
+<a href="url">https://deloittedevelopment.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/</a>
 
 <h4> kalyan reddy daida </h4>
 <a href="url">https://deloittedevelopment.udemy.com/organization/search/?src=ukw&q=kalyan+reddy+daida</a>
